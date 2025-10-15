@@ -77,3 +77,5 @@ def test_estructura_list():
     assert all("id" in item for item in items)
 
  #PARA GENERAR EL REPORTE HTML python -m pytest --html=report.html --self-contained-html
+
+ 

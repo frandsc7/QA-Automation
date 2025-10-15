@@ -22,7 +22,7 @@ while i<=5:
 #Listas 
 
 #             0,       1,     2
-mi_lista = ["Luzmar", 455, "negro"]
+mi_lista = ["Franco", 455, "negro"]
 #mi_lista.pop(2)
 #mi_lista.append(1998)
 #print(mi_lista)
@@ -36,7 +36,7 @@ mi_lista = ["Luzmar", 455, "negro"]
 
 #tupla
  #              0,     1,     2  
-mi_tupla = ("Celeste", 200, "Rojo")
+mi_tupla = ("Azul", 200, "Rojo")
 #inmutable
 print(mi_tupla[1]) #Se accede por indice tambien, igual que la lista
 
